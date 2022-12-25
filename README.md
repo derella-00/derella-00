@@ -1,7 +1,6 @@
 ## 🎓 In University
-- Bachelor of Business Administration
-  - Business Administration
-  - Accounting
+- Business Administration
+- Accounting
 
 ## Interest
 - ⚖️ Finance
