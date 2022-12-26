@@ -1,10 +1,6 @@
-## 🎓 In University
-- Business Administration
-- Accounting
-
 ## Interest
-- ⚖️ Finance
-- 🔗 Fin-tech
-- 🧑🏻‍💻 Programming
+- ⚖️ Corporation Finance
+- 🔗 Fin-tech of Payment
+- 🧑🏻‍💻 Cording
 - 📊 Data analysis
 - 📐 Math
