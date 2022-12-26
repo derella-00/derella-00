@@ -4,3 +4,5 @@
 - 🧑🏻‍💻 Cording
 - 📊 Data analysis
 - 📐 Math
+
+Blog: [derella-00.gihub.io](https://derella-00.github.io)
