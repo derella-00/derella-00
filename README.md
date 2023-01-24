@@ -5,7 +5,7 @@
 - Data analysis
 - Math
 
-Blog: https://blog.naver.com/derella_00
+Blog: [Derella's Blog](https://derella.notion.site/Derella-s-Blog-b4bb388e157b40f6badd942fc6284970)
 
 <br>
 
