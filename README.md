@@ -11,7 +11,7 @@ Blog: [Derella's Blog](https://derella.notion.site/Derella-s-Blog-b4bb388e157b40
 
 ## _Short_
 ### _Finanace Calculator_
-- Coporation search -> Balance Sheet in DART  -> DB ->  Web finance calculator
+- Coporation search -> Balance Sheet from DART  -> DB ->  Web finance calculator
 
 <br>
 
